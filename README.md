@@ -5,4 +5,4 @@
 - 📫 How to reach me: [gsousalucas@outlook.com](mailto:gsousalucas@outlook.com) | slack 42: gsousa-l
 - ⚡ Fun fact: I'm a graduate music teacher and I love help any people.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsl96&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielsl96&show_icons=true&theme=radical) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsl96&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
