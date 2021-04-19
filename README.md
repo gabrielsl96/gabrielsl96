@@ -4,3 +4,5 @@
 - 💬 Ask me about C, Python, Java, or anything.
 - 📫 How to reach me: [gsousalucas@outlook.com](mailto:gsousalucas@outlook.com) | slack 42: gsousa-l
 - ⚡ Fun fact: I'm a graduate music teacher and I love help any people.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsl96)](https://github.com/anuraghazra/github-readme-stats)
