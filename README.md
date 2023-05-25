@@ -1,8 +1,8 @@
 ### Hi, I'm Gabriel! 👋
 
-- 🌱 I’m currently learning to build a [small data exchange program using UNIX signals](https://github.com/gabrielsl96/minitalk) and building a [music school system with Django](https://github.com/gabrielsl96/sistemaescolademusica)
-- 💬 Ask me about C, Python, Java, Unix/Linux, Shell or anything.
-- 📫 How to reach me: [gsousalucas@outlook.com](mailto:gsousalucas@outlook.com) | slack 42: gsousa-l
+- 🌱 I’m currently helping to change the world
+- 💬 Ask me about C, Python, Java, Unix/Linux, Shell, Typescript, NestJS or anything.
+- 📫 How to reach me: [gsousalucas@outlook.com](mailto:gsousalucas@outlook.com)
 - ⚡ Fun fact: I'm a graduate music teacher and I love help any people.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielsl96&hide=contribs,prs&show_icons=True&theme=dark)
