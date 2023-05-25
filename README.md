@@ -6,4 +6,4 @@
 - ⚡ Fun fact: I'm a graduate music teacher and I love help any people.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielsl96&hide=contribs,prs&show_icons=True&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsl96&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stat
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsl96&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stat)
